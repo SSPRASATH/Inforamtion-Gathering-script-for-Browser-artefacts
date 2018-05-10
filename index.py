@@ -417,7 +417,6 @@ def About():
 	print '=======================================================\n' 
 	print' SUPPORTED BROWSERS : google-chrome,firefox,opera'
 	print' FEATURES: The browser list can be updated manually,\n It allows to perform the basic filter operation based on keywords\n YET TO UPDATED'
-	print' CREDITS : SP:),PANDA,ASHOK KUMAR'
 	print'\n'
 	cond()
 def linuxOs():
